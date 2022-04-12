@@ -67,7 +67,7 @@ matchs['NWL-9'] = {"id":"", "lega":"NWL", "giornata":9, "data":"//2022", "daCari
 
 //Amichevoli 
 matchs['AMICI-1'] = {"id":"1333083", "lega":"AMICI", "giornata":1, "data":"25/01/2022", "daCaricare" : true};
-matchs['AMICI-2'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+matchs['AMICI-2'] = {"id":"1369157", "lega":"AMICI", "giornata":1, "data":"13/04/2022", "daCaricare" : true};
 matchs['AMICI-3'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-4'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-5'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
