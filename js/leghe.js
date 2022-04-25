@@ -36,11 +36,17 @@ matchs['TMLC-7'] = {"id":"", "lega":"TMLC", "giornata":7, "data":"01/07/2022", "
 matchs['TMLC-8'] = {"id":"", "lega":"TMLC", "giornata":8, "data":"01/08/2022", "daCaricare" : true};
 matchs['TMLC-9'] = {"id":"", "lega":"TMLC", "giornata":9, "data":"01/09/2022", "daCaricare" : true};
 
-//KTML
-matchs['KTML-1'] = {"id":"1329161", "lega":"KTML", "giornata":1, "data":"05/01/2022", "daCaricare" : true};
-matchs['KTML-2'] = {"id":"", "lega":"KTML", "giornata":2, "data":"01/02/2022", "daCaricare" : true};
-matchs['KTML-3'] = {"id":"", "lega":"KTML", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
-matchs['KTML-5'] = {"id":"", "lega":"KTML", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
+//KTML 32
+matchs['KTML-32-1'] = {"id":"1329161", "lega":"KTML-32", "giornata":1, "data":"05/01/2022", "daCaricare" : true};
+matchs['KTML-32-2'] = {"id":"", "lega":"KTML-32", "giornata":2, "data":"01/02/2022", "daCaricare" : true};
+matchs['KTML-32-3'] = {"id":"", "lega":"KTML-32", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
+matchs['KTML-32-4'] = {"id":"", "lega":"KTML-32", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
+
+//KTML 33
+matchs['KTML-33-1'] = {"id":"1372719", "lega":"KTML-33", "giornata":1, "data":"05/01/2022", "daCaricare" : true};
+matchs['KTML-33-2'] = {"id":"", "lega":"KTML-33", "giornata":2, "data":"01/02/2022", "daCaricare" : true};
+matchs['KTML-33-3'] = {"id":"", "lega":"KTML-33", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
+matchs['KTML-33-4'] = {"id":"", "lega":"KTML-33", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
 
 //ULF
 matchs['ULF-1'] = {"id":"1333413", "lega":"ULF", "giornata":1, "data":"07/02/2022", "daCaricare" : true};

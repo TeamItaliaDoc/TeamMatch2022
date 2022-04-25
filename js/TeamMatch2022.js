@@ -63,6 +63,7 @@ function caricaMatch(index, url)
         if (data.status == 'registration') {
             matchs[index].risultato = 'In partenza';
             matchs[index].risultatoStyle = 'color:black;font-weight:bold';
+            matchs[index].giocatori += ' - ' + dataAvversario.players.length;
         }
         if (data.status == 'in_progress') {
             matchs[index].risultato = 'In corso';
