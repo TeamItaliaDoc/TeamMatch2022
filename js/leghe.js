@@ -43,7 +43,7 @@ matchs['KTML-32-3'] = {"id":"", "lega":"KTML-32", "giornata":3, "data":"01/03/20
 matchs['KTML-32-4'] = {"id":"", "lega":"KTML-32", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
 
 //KTML 33
-matchs['KTML-33-1'] = {"id":"1372719", "lega":"KTML-33", "giornata":1, "data":"05/01/2022", "daCaricare" : true};
+matchs['KTML-33-1'] = {"id":"", "lega":"KTML-33", "giornata":1, "data":"05/01/2022", "daCaricare" : true};   //--1372719
 matchs['KTML-33-2'] = {"id":"", "lega":"KTML-33", "giornata":2, "data":"01/02/2022", "daCaricare" : true};
 matchs['KTML-33-3'] = {"id":"", "lega":"KTML-33", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
 matchs['KTML-33-4'] = {"id":"", "lega":"KTML-33", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
