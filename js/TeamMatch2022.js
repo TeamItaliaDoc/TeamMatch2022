@@ -13,6 +13,9 @@ function elabora() {
     avversari['greek-arena-tournoua-ellados'] = {};
     avversari['greek-arena-tournoua-ellados'].url = 'https://api.chess.com/pub/club/greek-arena-tournoua-ellados';
     avversari['greek-arena-tournoua-ellados'].avatar = 'https://images.chesscomfiles.com/uploads/v1/group/129834.348c79a3.50x50o.252268e92379.jpeg';
+    avversari['hampovsky-chess-club'] = {};
+    avversari['hampovsky-chess-club'].url = 'https://api.chess.com/pub/club/hampovsky-chess-club';
+    avversari['hampovsky-chess-club'].avatar = 'https://images.chesscomfiles.com/uploads/v1/group/68186.4e8043c0.50x50o.3726a5340100.png';
     for (var i in matchs) {
         if (matchs[i].avversarioName) {
             if (! avversari[matchs[i].avversarioName]) {
@@ -22,7 +25,7 @@ function elabora() {
             }
         }
     }
-
+    
     //Carico i dati di tutti i match
     for (var i in matchs) {
         sleep(50);
@@ -138,21 +141,22 @@ function caricaMatch(index, url)
         }    
 
     }).error(function(jqXhr, textStatus, error) {
+        console.log('ERRORE in lettura dati ' + this.url);
+        var index = 0;
+        for (var i in matchs) {
+            if ('https://api.chess.com/pub/match/' + matchs[i].id == this.url)
+                index = i;
+        };
         //è andato in errore ricarico i dati
         //Se responseJSON non è valorizzato solo se il record esiste    
         if (! jqXhr.responseJSON)
         {
             console.log('ERRORE ricarico dati: ' + this.url);
-            var index = 0;
-                for (var i in matchs) {
-                    if (matchs[i].url = this.url)
-                        index = i;
-                };
-                console.log('ERRORE ricarico dati: ricarico match ' + index);
-                caricaMatch(index, this.url);    
-            } else {
-                console.log('ERRORE Match non valida. ' + this.url);
-                console.log('ERRORE Match non valida. ' + this.url);
+            caricaMatch(index, this.url);    
+        } else {
+                matchs[index].daCaricare = false;
+                console.log('ERRORE Match non valida. ' + index);
+                console.log('ERRORE Match non valida. ' + index);
                 console.log('ERRORE Match non valida. ' + this.url);
                 console.log('ERRORE Match non valida. ' + this.url);
             }
