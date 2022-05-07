@@ -79,7 +79,7 @@ matchs['WL-OPEN-A-9'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":9, "data":"30/
 
 // TOUR 30
 matchs['WL-TOUR-1'] = {"id":"1365995", "lega":"1WL-TOUR", "giornata":1, "data":"17/04/2022", "daCaricare" : true};
-matchs['WL-TOUR-2'] = {"id":"", "lega":"1WL-TOUR", "giornata":2, "data":"15/05/2022", "daCaricare" : true};
+matchs['WL-TOUR-2'] = {"id":"1376697", "lega":"1WL-TOUR", "giornata":2, "data":"15/05/2022", "daCaricare" : true};
 matchs['WL-TOUR-3'] = {"id":"", "lega":"1WL-TOUR", "giornata":3, "data":"19/06/2022", "daCaricare" : true};
 matchs['WL-TOUR-4'] = {"id":"", "lega":"1WL-TOUR", "giornata":4, "data":"17/07/2022", "daCaricare" : true};
 matchs['WL-TOUR-5'] = {"id":"", "lega":"1WL-TOUR", "giornata":5, "data":"21/08/2022", "daCaricare" : true};
