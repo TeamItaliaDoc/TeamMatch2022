@@ -200,10 +200,11 @@ function stampaTeams() {
                    link = '<a href="' +  matchs[index].url + '" target=”_blank”> <img height="25" width="25" src="img/link.jpg"></a>';
                 }
                 var avatar = '';
-                if (matchs[index].avversarioName != '') {
+                console.log(index + ' - ' + matchs[index].avversarioName);
+                if (matchs[index].avversarioName != '' && avversari[matchs[index].avversarioName].avatar) {
                     avatar = '<img class="classifica-avatar" src="' + avversari[matchs[index].avversarioName].avatar + '"><a style="color:black;text-decoration: none;font-weight: normal;" href="https://www.chess.com/club/' + matchs[index].avversarioName.replace(' ', '-') + '" target=”_blank”> ' +   avversari[matchs[index].avversarioName].url.replace('https://api.chess.com/pub/club/','https://www.chess.com/club/') + '</a>';
                 }
-                 var stRiga = '<tr class="classifica-giocatori">' +
+                var stRiga = '<tr class="classifica-giocatori">' +
                 '<td class="classifica-col1">' + matchs[index].giornata + '</td>  ' +
                 '<td class="giocatori-col1SEP">  </td>' +
                 '<td class="classifica-lega-2">' + matchs[index].data + '</td> ' +

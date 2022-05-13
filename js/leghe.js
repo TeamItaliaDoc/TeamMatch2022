@@ -38,7 +38,7 @@ matchs['TMLC-9'] = {"id":"", "lega":"TMLC", "giornata":9, "data":"01/09/2022", "
 
 //KTML 32
 matchs['KTML-32-1'] = {"id":"1329161", "lega":"KTML-32", "giornata":1, "data":"05/01/2022", "daCaricare" : true};
-matchs['KTML-32-2'] = {"id":"", "lega":"KTML-32", "giornata":2, "data":"01/02/2022", "daCaricare" : true};
+matchs['KTML-32-2'] = {"id":"1380317", "lega":"KTML-32", "giornata":2, "data":"21/05/2022", "daCaricare" : true};
 matchs['KTML-32-3'] = {"id":"", "lega":"KTML-32", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
 matchs['KTML-32-4'] = {"id":"", "lega":"KTML-32", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
 
