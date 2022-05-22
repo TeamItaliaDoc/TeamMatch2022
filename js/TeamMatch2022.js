@@ -10,9 +10,9 @@ var avversari = [];
 function elabora() {
     //carico i nomi degli avversari delle partite non giocate
     //Non si riesce a caricare
-    avversari['greek-arena-tournoua-ellados'] = {};
-    avversari['greek-arena-tournoua-ellados'].url = 'https://api.chess.com/pub/club/greek-arena-tournoua-ellados';
-    avversari['greek-arena-tournoua-ellados'].avatar = 'https://images.chesscomfiles.com/uploads/v1/group/129834.348c79a3.50x50o.252268e92379.jpeg';
+    //avversari['greek-arena-tournoua-ellados'] = {};
+    //avversari['greek-arena-tournoua-ellados'].url = 'https://api.chess.com/pub/club/greek-arena-tournoua-ellados';
+    //avversari['greek-arena-tournoua-ellados'].avatar = 'https://images.chesscomfiles.com/uploads/v1/group/129834.348c79a3.50x50o.252268e92379.jpeg';
     avversari['hampovsky-chess-club'] = {};
     avversari['hampovsky-chess-club'].url = 'https://api.chess.com/pub/club/hampovsky-chess-club';
     avversari['hampovsky-chess-club'].avatar = 'https://images.chesscomfiles.com/uploads/v1/group/68186.4e8043c0.50x50o.3726a5340100.png';
@@ -20,10 +20,14 @@ function elabora() {
         if (matchs[i].avversarioName) {
             if (! avversari[matchs[i].avversarioName]) {
                 avversari[matchs[i].avversarioName] = {};
-                avversari[matchs[i].avversarioName].url = 'https://api.chess.com/pub/club/' + matchs[i].avversarioName.replace(' ', '-');
-                avversari[matchs[i].avversarioName].avatar = '';
+                if (matchs[i].nameUrl) {
+                    avversari[matchs[i].avversarioName].url = 'https://api.chess.com/pub/club/' +matchs[i].nameUrl;  //Se è definito
+                } else {
+                    avversari[matchs[i].avversarioName].url = 'https://api.chess.com/pub/club/' + matchs[i].avversarioName.replace(' ', '-');
+                    matchs[i].nameUrl = matchs[i].avversarioName.replace(' ', '-');
+                }
             }
-        }
+        } 
     }
     
     //Carico i dati di tutti i match
@@ -62,6 +66,13 @@ function caricaMatch(index, url)
         matchs[index].score = dataTeams.score + ' - ' + dataAvversario.score;
         matchs[index].url = data.url;
         matchs[index].avversarioName = dataAvversario.name;
+        matchs[index].nameUrl = dataAvversario.name.replace(' ', '-');
+        matchs[index].nameUrl = matchs[index].nameUrl.replace(' ', '-');
+        matchs[index].nameUrl = matchs[index].nameUrl.replace(' ', '-');
+        matchs[index].nameUrl = matchs[index].nameUrl.replace(' ', '-');
+        matchs[index].nameUrl = matchs[index].nameUrl.replace(' ', '-');
+        matchs[index].nameUrl = matchs[index].nameUrl.replace(' ', '-');
+
         //Calcolo risultato
         if (data.status == 'registration') {
             matchs[index].risultato = 'In partenza';
@@ -168,6 +179,7 @@ function getTeamAvatar(url)
 {
     //Eseguo funzione per ricercare un avatar
     $.getJSON(url,function(data){
+            console.log('getTeamAvatar: ' + data.name)
             avversari[data.name].avatar = data.icon;    
             
         //Se non ho caricato tuti gli elo  esengo ancora la funzione
@@ -202,7 +214,7 @@ function stampaTeams() {
                 var avatar = '';
                 console.log(index + ' - ' + matchs[index].avversarioName);
                 if (matchs[index].avversarioName != '' && avversari[matchs[index].avversarioName].avatar) {
-                    avatar = '<img class="classifica-avatar" src="' + avversari[matchs[index].avversarioName].avatar + '"><a style="color:black;text-decoration: none;font-weight: normal;" href="https://www.chess.com/club/' + matchs[index].avversarioName.replace(' ', '-') + '" target=”_blank”> ' +   avversari[matchs[index].avversarioName].url.replace('https://api.chess.com/pub/club/','https://www.chess.com/club/') + '</a>';
+                    avatar = '<img class="classifica-avatar" src="' + avversari[matchs[index].avversarioName].avatar + '"><a style="color:black;text-decoration: none;font-weight: normal;" href="https://www.chess.com/club/' + matchs[index].nameUrl + '" target=”_blank”> ' +   matchs[index].avversarioName + '</a>';
                 }
                 var stRiga = '<tr class="classifica-giocatori">' +
                 '<td class="classifica-col1">' + matchs[index].giornata + '</td>  ' +

@@ -13,7 +13,7 @@ matchs['WL-OPEN-9'] = {"id":"", "lega":"1WL-OPEN", "giornata":9, "data":"11/08/2
 matchs['WL-1800-1'] = {"id":"1325663", "lega":"1WL-1800", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
 matchs['WL-1800-2'] = {"id":"1339701", "lega":"1WL-1800", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
 matchs['WL-1800-3'] = {"id":"0", "lega":"1WL-1800", "giornata":3, "data":"Da definire", "daCaricare" : true,
-"avversarioName":"Crimea team","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  //Vinto forfait
+"avversarioName":"Crimea team","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1800-4'] = {"id":"1362291", "lega":"1WL-1800", "giornata":4, "data":"10/04/2022", "daCaricare" : true};
 matchs['WL-1800-5'] = {"id":"1373413", "lega":"1WL-1800", "giornata":5, "data":"08/05/2022", "daCaricare" : true};
 matchs['WL-1800-6'] = {"id":"", "lega":"1WL-1800", "giornata":6, "data":"12/06/2022", "daCaricare" : true};
@@ -23,7 +23,7 @@ matchs['WL-1800-9'] = {"id":"", "lega":"1WL-1800", "giornata":9, "data":"11/08/2
 
 // 1WL-1600   
 matchs['WL-1600-1'] = {"id":"0", "lega":"1WL-1600", "giornata":1, "data":"09/01/2022", "daCaricare" : true,
-"avversarioName":"ChessAjedrezz","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  //Vinto forfait
+"avversarioName":"ChessAjedrezz","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1600-2'] = {"id":"1339611", "lega":"1WL-1600", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
 matchs['WL-1600-3'] = {"id":"1345805", "lega":"1WL-1600", "giornata":3, "data":"27/02/2022", "daCaricare" : true};
 matchs['WL-1600-4'] = {"id":"1353867", "lega":"1WL-1600", "giornata":4, "data":"13/03/2022", "daCaricare" : true};
@@ -49,8 +49,9 @@ matchs['WL-1200-1'] = {"id":"1325063", "lega":"1WL-1200", "giornata":1, "data":"
 matchs['WL-1200-2'] = {"id":"1339615", "lega":"1WL-1200", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
 matchs['WL-1200-3'] = {"id":"1351363", "lega":"1WL-1200", "giornata":3, "data":"13/03/2022", "daCaricare" : true};
 matchs['WL-1200-4'] = {"id":"1362391", "lega":"1WL-1200", "giornata":4, "data":"10/04/2022", "daCaricare" : true};
-matchs['WL-1200-5'] = {"id":"", "lega":"1WL-1200", "giornata":5, "data":"08/05/2022", "daCaricare" : true};   //????????? vinto forfait ? 1373417
-matchs['WL-1200-6'] = {"id":"", "lega":"1WL-1200", "giornata":6, "data":"12/06/2022", "daCaricare" : true};
+matchs['WL-1200-5'] = {"id":"0", "lega":"1WL-1200", "giornata":5, "data":"08/05/2022", "daCaricare" : true,
+"avversarioName":"Earthlings United","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-1200-6'] = {"id":"1381251", "lega":"1WL-1200", "giornata":6, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-1200-7'] = {"id":"", "lega":"1WL-1200", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-1200-8'] = {"id":"", "lega":"1WL-1200", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
 matchs['WL-1200-9'] = {"id":"", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
@@ -99,7 +100,16 @@ matchs['WL-OPEN-D5-9'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":9, "data":"3
 
 // Classi CUP 1700
 matchs['WL-CUP-1700-1-1'] = {"id":"0", "lega":"1WL-CUP-1700", "giornata":1, "data":"", "daCaricare" : true,
-"avversarioName":"greek-arena-tournoua-ellados","risultato":"Non disputata", "risultatoStyle" :"color:black;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  //Vinto forfait
+"avversarioName":"Greek Arena-Τουρνουά Ελλάδος", "nameUrl" : "greek-arena-tournoua-ellados","risultato":"Non disputata", "risultatoStyle" :"color:black;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-CUP-1700-1-2'] = {"id":"1342643", "lega":"1WL-CUP-1700", "giornata":2, "data":"20/02/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-3'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":3, "data":"20/03/2022", "daCaricare" : true};
+
+//Swiss4All 
+matchs['1WL-Swiss4All-1'] = {"id":"1383459", "lega":"1WL-Swiss4All", "giornata":1, "data":"05/06/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-2'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":2, "data":"03/06/2022", "daCaricare" : true};
+matchs['1WLSwiss4All-3'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":3, "data":"07/08/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-4'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-5'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/128/2022", "daCaricare" : true};
 

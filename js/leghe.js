@@ -1,5 +1,3 @@
-
-
 //CCT - League  
 matchs['CCT-1'] = {"id":"1327809", "lega":"CCT", "giornata":1, "data":"19/01/2022", "daCaricare" : true};
 matchs['CCT-2'] = {"id":"1342145", "lega":"CCT", "giornata":2, "data":"19/02/2022", "daCaricare" : true};
@@ -16,7 +14,7 @@ matchs['CCT-9'] = {"id":"", "lega":"CCT", "giornata":9, "data":"19/09/2022", "da
 //CCT - Center Files
 matchs['CCT-CEN-1'] = {"id":"1358685", "lega":"CCT-CEN", "giornata":1, "data":"31/03/2022", "daCaricare" : true};
 matchs['CCT-CEN-2'] = {"id":"1370107", "lega":"CCT-CEN", "giornata":2, "data":"01/05/2022", "daCaricare" : true};
-matchs['CCT-CEN-3'] = {"id":"", "lega":"CCT-CEN", "giornata":3, "data":"//2022", "daCaricare" : true};
+matchs['CCT-CEN-3'] = {"id":"1381203", "lega":"CCT-CEN", "giornata":3, "data":"31/05/2022", "daCaricare" : true};
 matchs['CCT-CEN-4'] = {"id":"", "lega":"CCT-CEN", "giornata":4, "data":"//2022", "daCaricare" : true};
 matchs['CCT-CEN-5'] = {"id":"", "lega":"CCT-CEN", "giornata":5, "data":"//2022", "daCaricare" : true};
 matchs['CCT-CEN-6'] = {"id":"", "lega":"CCT-CEN", "giornata":6, "data":"//2022", "daCaricare" : true};
@@ -44,7 +42,7 @@ matchs['KTML-32-4'] = {"id":"", "lega":"KTML-32", "giornata":5, "data":"01/05/20
 
 //KTML 33
 matchs['KTML-33-1'] = {"id":"0", "lega":"KTML-33", "giornata":1, "data":"01/05/2022", "daCaricare" : true,
-"avversarioName":"hampovsky-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+"avversarioName":"hampovsky-chess-club", "nameUrl" : "hampovsky-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 matchs['KTML-33-2'] = {"id":"", "lega":"KTML-33", "giornata":2, "data":"01/02/2022", "daCaricare" : true};
 matchs['KTML-33-3'] = {"id":"", "lega":"KTML-33", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
 matchs['KTML-33-4'] = {"id":"", "lega":"KTML-33", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
@@ -76,10 +74,11 @@ matchs['NWL-9'] = {"id":"", "lega":"NWL", "giornata":9, "data":"//2022", "daCari
 matchs['AMICI-1'] = {"id":"1333083", "lega":"AMICI", "giornata":1, "data":"25/01/2022", "daCaricare" : true};
 matchs['AMICI-2'] = {"id":"1369157", "lega":"AMICI", "giornata":1, "data":"13/04/2022", "daCaricare" : true};
 matchs['AMICI-3'] = {"id":"1371851", "lega":"AMICI", "giornata":1, "data":"25/04/2022", "daCaricare" : true};
-matchs['AMICI-4'] = {"id":"1376367", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
-matchs['AMICI-5'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+matchs['AMICI-4'] = {"id":"1376367", "lega":"AMICI", "giornata":1, "data":"03/05/2022", "daCaricare" : true};
+matchs['AMICI-5'] = {"id":"1381501", "lega":"AMICI", "giornata":1, "data":"22/05/2022", "daCaricare" : true};
 matchs['AMICI-6'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-7'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-8'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-9'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-10'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+
