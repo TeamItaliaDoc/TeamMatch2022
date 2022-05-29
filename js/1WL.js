@@ -30,7 +30,7 @@ matchs['WL-1600-4'] = {"id":"1353867", "lega":"1WL-1600", "giornata":4, "data":"
 matchs['WL-1600-5'] = {"id":"1362811", "lega":"1WL-1600", "giornata":5, "data":"10/04/2022", "daCaricare" : true};
 matchs['WL-1600-6'] = {"id":"1373415", "lega":"1WL-1600", "giornata":6, "data":"08/05/2022", "daCaricare" : true};
 matchs['WL-1600-7'] = {"id":"1380805", "lega":"1WL-1600", "giornata":7, "data":"29/05/2022", "daCaricare" : true};
-matchs['WL-1600-8'] = {"id":"", "lega":"1WL-1600", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
+matchs['WL-1600-8'] = {"id":"1386891", "lega":"1WL-1600", "giornata":8, "data":"12/06/2022", "daCaricare" : true};
 matchs['WL-1600-9'] = {"id":"", "lega":"1WL-1600", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
 
 // 1WL-1400
@@ -38,8 +38,9 @@ matchs['WL-1400-1'] = {"id":"1325061", "lega":"1WL-1400", "giornata":1, "data":"
 matchs['WL-1400-2'] = {"id":"1339613", "lega":"1WL-1400", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
 matchs['WL-1400-3'] = {"id":"1351805", "lega":"1WL-1400", "giornata":3, "data":"13/03/2022", "daCaricare" : true};
 matchs['WL-1400-4'] = {"id":"1363385", "lega":"1WL-1400", "giornata":4, "data":"10/04/2022", "daCaricare" : true};
-matchs['WL-1400-5'] = {"id":"", "lega":"1WL-1400", "giornata":5, "data":"08/05/2022", "daCaricare" : true};
-matchs['WL-1400-6'] = {"id":"", "lega":"1WL-1400", "giornata":6, "data":"12/06/2022", "daCaricare" : true};
+matchs['WL-1400-5'] = {"id":"0", "lega":"1WL-1400", "giornata":5, "data":"08/05/2022", "daCaricare" : true,
+"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-1400-6'] = {"id":"1386429", "lega":"1WL-1400", "giornata":6, "data":"12/06/2022", "daCaricare" : true};
 matchs['WL-1400-7'] = {"id":"", "lega":"1WL-1400", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-1400-8'] = {"id":"", "lega":"1WL-1400", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
 matchs['WL-1400-9'] = {"id":"", "lega":"1WL-1400", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
