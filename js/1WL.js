@@ -53,7 +53,7 @@ matchs['WL-1200-4'] = {"id":"1362391", "lega":"1WL-1200", "giornata":4, "data":"
 matchs['WL-1200-5'] = {"id":"0", "lega":"1WL-1200", "giornata":5, "data":"08/05/2022", "daCaricare" : true,
 "avversarioName":"Earthlings United","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1200-6'] = {"id":"1381251", "lega":"1WL-1200", "giornata":6, "data":"29/05/2022", "daCaricare" : true};
-matchs['WL-1200-7'] = {"id":"", "lega":"1WL-1200", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
+matchs['WL-1200-7'] = {"id":"1387171", "lega":"1WL-1200", "giornata":7, "data":"12/06/2022", "daCaricare" : true};
 matchs['WL-1200-8'] = {"id":"", "lega":"1WL-1200", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
 matchs['WL-1200-9'] = {"id":"", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
 
@@ -79,25 +79,25 @@ matchs['WL-OPEN-A-7'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":7, "data":"28/
 matchs['WL-OPEN-A-8'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-9'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
 
-// TOUR 30
-matchs['WL-TOUR-1'] = {"id":"1365995", "lega":"1WL-TOUR", "giornata":1, "data":"17/04/2022", "daCaricare" : true};
-matchs['WL-TOUR-2'] = {"id":"1376697", "lega":"1WL-TOUR", "giornata":2, "data":"15/05/2022", "daCaricare" : true};
-matchs['WL-TOUR-3'] = {"id":"1380837", "lega":"1WL-TOUR", "giornata":3, "data":"19/06/2022", "daCaricare" : true};
-matchs['WL-TOUR-4'] = {"id":"", "lega":"1WL-TOUR", "giornata":4, "data":"17/07/2022", "daCaricare" : true};
-matchs['WL-TOUR-5'] = {"id":"", "lega":"1WL-TOUR", "giornata":5, "data":"21/08/2022", "daCaricare" : true};
-matchs['WL-TOUR-6'] = {"id":"", "lega":"1WL-TOUR", "giornata":6, "data":"18/09/2022", "daCaricare" : true};
-matchs['WL-TOUR-7'] = {"id":"", "lega":"1WL-TOUR", "giornata":7, "data":"16/10/2022", "daCaricare" : true};
-
 // OPEN-D5
 matchs['WL-OPEN-D5-1'] = {"id":"1346249", "lega":"1WL-OPEN-D5", "giornata":1, "data":"27/02/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-2'] = {"id":"1357427", "lega":"1WL-OPEN-D5", "giornata":2, "data":"27/03/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-3'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":3, "data":"24/04/2022", "daCaricare" : true};
-matchs['WL-OPEN-D5-4'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":4, "data":"29/05/2022", "daCaricare" : true};
+matchs['WL-OPEN-D5-4'] = {"id":"1380837", "lega":"1WL-OPEN-D5", "giornata":4, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-5'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":5, "data":"26/06/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-6'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":6, "data":"31/07/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-7'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-8'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-9'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
+
+// TOUR 30
+matchs['WL-TOUR-1'] = {"id":"1365995", "lega":"1WL-TOUR", "giornata":1, "data":"17/04/2022", "daCaricare" : true};
+matchs['WL-TOUR-2'] = {"id":"1376697", "lega":"1WL-TOUR", "giornata":2, "data":"15/05/2022", "daCaricare" : true};
+matchs['WL-TOUR-3'] = {"id":"1389313", "lega":"1WL-TOUR", "giornata":3, "data":"19/06/2022", "daCaricare" : true};
+matchs['WL-TOUR-4'] = {"id":"", "lega":"1WL-TOUR", "giornata":4, "data":"17/07/2022", "daCaricare" : true};
+matchs['WL-TOUR-5'] = {"id":"", "lega":"1WL-TOUR", "giornata":5, "data":"21/08/2022", "daCaricare" : true};
+matchs['WL-TOUR-6'] = {"id":"", "lega":"1WL-TOUR", "giornata":6, "data":"18/09/2022", "daCaricare" : true};
+matchs['WL-TOUR-7'] = {"id":"", "lega":"1WL-TOUR", "giornata":7, "data":"16/10/2022", "daCaricare" : true};
 
 // Classi CUP 1700
 matchs['WL-CUP-1700-1-1'] = {"id":"0", "lega":"1WL-CUP-1700", "giornata":1, "data":"", "daCaricare" : true,

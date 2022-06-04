@@ -1,4 +1,4 @@
-//CCT - League  
+//CCT - League   s2
 matchs['CCT-1'] = {"id":"1327809", "lega":"CCT", "giornata":1, "data":"19/01/2022", "daCaricare" : true};
 matchs['CCT-2'] = {"id":"1342145", "lega":"CCT", "giornata":2, "data":"19/02/2022", "daCaricare" : true};
 matchs['CCT-3'] = {"id":"0", "lega":"CCT", "giornata":3, "data":"19/03/2022", "daCaricare" : true,
@@ -6,7 +6,7 @@ matchs['CCT-3'] = {"id":"0", "lega":"CCT", "giornata":3, "data":"19/03/2022", "d
 matchs['CCT-4'] = {"id":"0", "lega":"CCT", "giornata":4, "data":"19/04/2022", "daCaricare" : true,
 "avversarioName":"","risultato":"Pausa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
 matchs['CCT-5'] = {"id":"1377899", "lega":"CCT", "giornata":5, "data":"21/05/2022", "daCaricare" : true};
-matchs['CCT-6'] = {"id":"", "lega":"CCT", "giornata":6, "data":"19/06/2022", "daCaricare" : true};
+matchs['CCT-6'] = {"id":"1389601", "lega":"CCT", "giornata":6, "data":"21/06/2022", "daCaricare" : true};
 matchs['CCT-7'] = {"id":"", "lega":"CCT", "giornata":7, "data":"19/07/2022", "daCaricare" : true};
 matchs['CCT-8'] = {"id":"", "lega":"CCT", "giornata":8, "data":"19/08/2022", "daCaricare" : true};
 matchs['CCT-9'] = {"id":"", "lega":"CCT", "giornata":9, "data":"19/09/2022", "daCaricare" : true};
@@ -76,7 +76,7 @@ matchs['AMICI-2'] = {"id":"1369157", "lega":"AMICI", "giornata":1, "data":"13/04
 matchs['AMICI-3'] = {"id":"1371851", "lega":"AMICI", "giornata":1, "data":"25/04/2022", "daCaricare" : true};
 matchs['AMICI-4'] = {"id":"1376367", "lega":"AMICI", "giornata":1, "data":"03/05/2022", "daCaricare" : true};
 matchs['AMICI-5'] = {"id":"1381501", "lega":"AMICI", "giornata":1, "data":"22/05/2022", "daCaricare" : true};
-//??? Partenzamatchs['AMICI-6'] = {"id":"1381717", "lega":"AMICI", "giornata":1, "data":"", "daCaricare" : true};   
+matchs['AMICI-6'] = {"id":"1381717", "lega":"AMICI", "giornata":1, "data":"", "daCaricare" : true};    //??? 
 matchs['AMICI-7'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-8'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-9'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
