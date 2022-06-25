@@ -25,6 +25,12 @@ function elabora() {
                 } else {
                     avversari[matchs[i].avversarioName].url = 'https://api.chess.com/pub/club/' + matchs[i].avversarioName.replace(' ', '-');
                     matchs[i].nameUrl = matchs[i].avversarioName.replace(' ', '-');
+                    matchs[i].nameUrl = matchs[i].nameUrl.replace(' ', '-');
+                    matchs[i].nameUrl = matchs[i].nameUrl.replace(' ', '-');
+                    matchs[i].nameUrl = matchs[i].nameUrl.replace(' ', '-');
+                    matchs[i].nameUrl = matchs[i].nameUrl.replace(' ', '-');
+                    matchs[i].nameUrl = matchs[i].nameUrl.replace(' ', '-');
+            
                 }
             }
         } 
