@@ -41,7 +41,7 @@ matchs['WL-1400-4'] = {"id":"1363385", "lega":"1WL-1400", "giornata":4, "data":"
 matchs['WL-1400-5'] = {"id":"0", "lega":"1WL-1400", "giornata":5, "data":"08/05/2022", "daCaricare" : true,
 "avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1400-6'] = {"id":"1386429", "lega":"1WL-1400", "giornata":6, "data":"12/06/2022", "daCaricare" : true};
-matchs['WL-1400-7'] = {"id":"", "lega":"1WL-1400", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
+matchs['WL-1400-7'] = {"id":"1397215", "lega":"1WL-1400", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-1400-8'] = {"id":"", "lega":"1WL-1400", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
 matchs['WL-1400-9'] = {"id":"", "lega":"1WL-1400", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
 
@@ -65,7 +65,7 @@ matchs['WL-960-4'] = {"id":"1359679", "lega":"1WL-960", "giornata":4, "data":"03
 matchs['WL-960-5'] = {"id":"1371387", "lega":"1WL-960", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
 matchs['WL-960-6'] = {"id":"0", "lega":"1WL-960", "giornata":6, "data":"01/06/2022", "daCaricare" : true,
 "avversarioName":"Team Philippines United", "nameUrl" : "team-philippines-united","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
-matchs['WL-960-7'] = {"id":"1396431", "lega":"1WL-960", "giornata":7, "data":"03/07/2022", "daCaricare" : true};
+//matchs['WL-960-7'] = {"id":"1396431", "lega":"1WL-960", "giornata":7, "data":"03/07/2022", "daCaricare" : true};   //https://www.chess.com/clubs/forum/view/960-league-2022?page=38 si è giocato ?? 
 matchs['WL-960-8'] = {"id":"", "lega":"1WL-960", "giornata":8, "data":"/08/2022", "daCaricare" : true};
 matchs['WL-960-9'] = {"id":"", "lega":"1WL-960", "giornata":9, "data":"1/08/2022", "daCaricare" : true};
 
