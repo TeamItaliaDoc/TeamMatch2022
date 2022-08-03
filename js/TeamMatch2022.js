@@ -16,6 +16,9 @@ function elabora() {
     avversari['hampovsky-chess-club'] = {};
     avversari['hampovsky-chess-club'].url = 'https://api.chess.com/pub/club/hampovsky-chess-club';
     avversari['hampovsky-chess-club'].avatar = 'https://images.chesscomfiles.com/uploads/v1/group/68186.4e8043c0.50x50o.3726a5340100.png';
+    //avversari['klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin'] = {};
+    //avversari['klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin'].url = 'https://api.chess.com/pub/club/klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin';
+    //avversari['klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin'].avatar = 'https://images.chesscomfiles.com/uploads/v1/group/175534.d60e547c.50x50o.3a198a93ef90.jpeg';
     for (var i in matchs) {
         if (matchs[i].avversarioName) {
             if (! avversari[matchs[i].avversarioName]) {
