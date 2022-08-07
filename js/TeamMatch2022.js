@@ -39,10 +39,13 @@ function elabora() {
         } 
     }
     
+    
     //Carico i dati di tutti i match
     for (var i in matchs) {
         sleep(50);
 
+        console.log('carico ' + matchs[i].id);
+        
         if ( matchs[i].id != '' && matchs[i].id != '0')
             caricaMatch(i, 'https://api.chess.com/pub/match/' + matchs[i].id);
     };
@@ -186,9 +189,13 @@ function caricaMatch(index, url)
 
 function getTeamAvatar(url)
 {
+    console.log('getTeamAvatar: ' + url)
     //Eseguo funzione per ricercare un avatar
     $.getJSON(url,function(data){
             console.log('getTeamAvatar: ' + data.name)
+            console.log(data)
+            console.log('getTeamAvatar: ' + data.icon)
+            console.log('getTeamAvatar: ' + data.icon)
             avversari[data.name].avatar = data.icon;    
             
         //Se non ho caricato tuti gli elo  esengo ancora la funzione

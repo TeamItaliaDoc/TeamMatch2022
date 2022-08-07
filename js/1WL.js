@@ -1,10 +1,8 @@
 /* DA VERIFICARE
-https://www.chess.com/club/matches/team-italia-doc/1405015 round 9 o 10 ?
-https://www.chess.com/club/matches/team-italia-doc/1405849
-data amichevole prima di quella sopra
+
+
 https://www.chess.com/club/matches/team-italia-doc/1394593 ?? 1500 ?? round 1 annullato. Chi ha vinto?
-https://www.chess.com/club/matches/team-italia-doc/1408871 round 11 o 10 ??
-WL-OPEN-D5-6 se metto avversiario si pianta
+
 */
 
 // 1WL-OPEN
@@ -40,8 +38,11 @@ matchs['WL-1600-5'] = {"id":"1362811", "lega":"1WL-1600", "giornata":5, "data":"
 matchs['WL-1600-6'] = {"id":"1373415", "lega":"1WL-1600", "giornata":6, "data":"08/05/2022", "daCaricare" : true};
 matchs['WL-1600-7'] = {"id":"1380805", "lega":"1WL-1600", "giornata":7, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-1600-8'] = {"id":"1386891", "lega":"1WL-1600", "giornata":8, "data":"12/06/2022", "daCaricare" : true};
-matchs['WL-1600-9'] = {"id":"1405015", "lega":"1WL-1600", "giornata":9, "data":"31/07/2022", "daCaricare" : true};
-matchs['WL-1600-10'] = {"id":"1408871", "lega":"1WL-1600", "giornata":10, "data":"14/08/2022", "daCaricare" : true};
+matchs['WL-1600-9'] = {"id":"1405015", "lega":"1WL-1600", "giornata":9, "data":"31/07/2022", "daCaricare" : true,
+"avversarioName":"Crimea team","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};
+matchs['WL-1600-10'] = {"id":"0", "lega":"1WL-1600", "giornata":1, "data":"31/11/2022", "daCaricare" : true,
+"avversarioName":"InterAjedrez","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-1600-11'] = {"id":"1408871", "lega":"1WL-1600", "giornata":10, "data":"14/08/2022", "daCaricare" : true};
 
 // 1WL-1400
 matchs['WL-1400-1'] = {"id":"1325061", "lega":"1WL-1400", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
@@ -97,7 +98,7 @@ matchs['WL-OPEN-D5-3'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":3, "data":"2
 matchs['WL-OPEN-D5-4'] = {"id":"1380837", "lega":"1WL-OPEN-D5", "giornata":4, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-5'] = {"id":"1392831", "lega":"1WL-OPEN-D5", "giornata":5, "data":"26/06/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-6'] = {"id":"0", "lega":"1WL-OPEN-D5", "giornata":6, "data":"31/07/2022", "daCaricare" : true,   //Vinta forfait perchè non si è presentata la squadra 1
-"avversarioName":"", "nameUrl" : "","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+"avversarioName":"Клуб имени Михаила Чигорина. Club names Mikhail Chigorin", "nameUrl" : "klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 //"avversarioName":"Club names Mikhail Chigorin II", "nameUrl" : "klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""}; 
  matchs['WL-OPEN-D5-7'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-8'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
