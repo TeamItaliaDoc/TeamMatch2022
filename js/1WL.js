@@ -78,7 +78,7 @@ matchs['WL-960-6'] = {"id":"0", "lega":"1WL-960", "giornata":6, "data":"01/06/20
 "avversarioName":"Team Philippines United", "nameUrl" : "team-philippines-united","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 //matchs['WL-960-7'] = {"id":"1396431", "lega":"1WL-960", "giornata":7, "data":"03/07/2022", "daCaricare" : true};   //https://www.chess.com/clubs/forum/view/960-league-2022?page=38 si è giocato ?? 
 matchs['WL-960-8'] = {"id":"1406011", "lega":"1WL-960", "giornata":8, "data":"07/08/2022", "daCaricare" : true};
-matchs['WL-960-9'] = {"id":"", "lega":"1WL-960", "giornata":9, "data":"1/08/2022", "daCaricare" : true};
+matchs['WL-960-9'] = {"id":"1414171", "lega":"1WL-960", "giornata":9, "data":"4/09/2022", "daCaricare" : true};
 
 // OPEN-A
 matchs['WL-OPEN-A-1'] = {"id":"1346245", "lega":"1WL-OPEN-A", "giornata":1, "data":"27/02/2022", "daCaricare" : true};
@@ -87,7 +87,7 @@ matchs['WL-OPEN-A-2'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":4, "data":"29/
 matchs['WL-OPEN-A-4'] = {"id":"1380807", "lega":"1WL-OPEN-A", "giornata":3, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-5'] = {"id":"1392083", "lega":"1WL-OPEN-A", "giornata":5, "data":"26/06/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-6'] = {"id":"1403955", "lega":"1WL-OPEN-A", "giornata":6, "data":"31/07/2022", "daCaricare" : true};
-matchs['WL-OPEN-A-7'] = {"id":"1412769", "lega":"1WL-OPEN-A", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
+matchs['WL-OPEN-A-7'] = {"id":"1412843", "lega":"1WL-OPEN-A", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-8'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-9'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
 
@@ -99,7 +99,7 @@ matchs['WL-OPEN-D5-4'] = {"id":"1380837", "lega":"1WL-OPEN-D5", "giornata":4, "d
 matchs['WL-OPEN-D5-5'] = {"id":"1392831", "lega":"1WL-OPEN-D5", "giornata":5, "data":"26/06/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-6'] = {"id":"0", "lega":"1WL-OPEN-D5", "giornata":6, "data":"31/07/2022", "daCaricare" : true,   //Vinta forfait perchè non si è presentata la squadra 1
 "avversarioName":"Клуб имени Михаила Чигорина. Club names Mikhail Chigorin", "nameUrl" : "klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
- matchs['WL-OPEN-D5-7'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
+matchs['WL-OPEN-D5-7'] = {"id":"1412907", "lega":"1WL-OPEN-D5", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-8'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-9'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
 
@@ -119,11 +119,11 @@ matchs['WL-CUP-1700-1-1'] = {"id":"0", "lega":"1WL-CUP-1700", "giornata":1, "dat
 matchs['WL-CUP-1700-1-2'] = {"id":"1342643", "lega":"1WL-CUP-1700", "giornata":2, "data":"20/02/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-3'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":3, "data":"20/03/2022", "daCaricare" : true};
 
-// U15 Tournement
+// U1500 Tournement
  matchs['WL-U15-1'] = {"id":"0", "lega":"1WL-U15", "giornata":1, "data":"03/07/2022", "daCaricare" : true,   //persa forfait 
 "avversarioName":"I like beer and Chess", "nameUrl" : "","risultato":"Persa forfait", "risultatoStyle" :"color:red", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-U15-2'] = {"id":"1405955", "lega":"1WL-U15", "giornata":2, "data":"07/08/2022", "daCaricare" : true};
-matchs['WL-U15-3'] = {"id":"", "lega":"1WL-U15", "giornata":3, "data":"04/09/2022", "daCaricare" : true};
+matchs['WL-U15-3'] = {"id":"1414167", "lega":"1WL-U15", "giornata":3, "data":"04/09/2022", "daCaricare" : true};
 matchs['WL-U15-4'] = {"id":"", "lega":"1WL-U15", "giornata":4, "data":"02/10/2022", "daCaricare" : true};
 matchs['WL-U15-5'] = {"id":"", "lega":"1WL-U15", "giornata":5, "data":"06/11/2022", "daCaricare" : true};
 matchs['WL-U15-6'] = {"id":"", "lega":"1WL-U15", "giornata":6, "data":"04/12/2022", "daCaricare" : true};
