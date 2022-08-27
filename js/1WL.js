@@ -1,10 +1,3 @@
-/* DA VERIFICARE
-
-
-https://www.chess.com/club/matches/team-italia-doc/1394593 ?? 1500 ?? round 1 annullato. Chi ha vinto?
-
-*/
-
 // 1WL-OPEN
 matchs['WL-OPEN-1'] = {"id":"1327015", "lega":"1WL-OPEN", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
 matchs['WL-OPEN-2'] = {"id":"1339647", "lega":"1WL-OPEN", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
@@ -14,7 +7,7 @@ matchs['WL-OPEN-5'] = {"id":"1373419", "lega":"1WL-OPEN", "giornata":5, "data":"
 matchs['WL-OPEN-6'] = {"id":"", "lega":"1WL-OPEN", "giornata":6, "data":"12/06/2022", "In attesa Crimea Team" : true};
 matchs['WL-OPEN-7'] = {"id":"1396533", "lega":"1WL-OPEN", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-OPEN-8'] = {"id":"1408809", "lega":"1WL-OPEN", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
-matchs['WL-OPEN-9'] = {"id":"", "lega":"1WL-OPEN", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
+matchs['WL-OPEN-9'] = {"id":"1416151", "lega":"1WL-OPEN", "giornata":9, "data":"11/09/2022", "daCaricare" : true};
 
 // 1WL-1800
 matchs['WL-1800-1'] = {"id":"1325663", "lega":"1WL-1800", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
@@ -65,8 +58,13 @@ matchs['WL-1200-5'] = {"id":"0", "lega":"1WL-1200", "giornata":5, "data":"08/05/
 "avversarioName":"Earthlings United","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1200-6'] = {"id":"1381251", "lega":"1WL-1200", "giornata":6, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-1200-7'] = {"id":"1387171", "lega":"1WL-1200", "giornata":7, "data":"12/06/2022", "daCaricare" : true};
+
 matchs['WL-1200-8'] = {"id":"1396783", "lega":"1WL-1200", "giornata":8, "data":"10/07/2022", "daCaricare" : true};
-matchs['WL-1200-9'] = {"id":"", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
+matchs['WL-1200-9'] = {"id":"0", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true,
+"avversarioName":"Team United Kingdom.", "nameUrl" : "team-united-kingdom-1","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-1200-10'] = {"id":"0", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true,
+"avversarioName":"Team Ukraine","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};     
+matchs['WL-1200-11'] = {"id":"1416275", "lega":"1WL-1200", "giornata":9, "data":"11/09/2022", "daCaricare" : true};
 
 // 1WL-960   
 matchs['WL-960-1'] = {"id":"1320839", "lega":"1WL-960", "giornata":1, "data":"02/01/2022", "daCaricare" : true};
