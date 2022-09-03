@@ -19,7 +19,9 @@ matchs['WL-1800-5'] = {"id":"1373413", "lega":"1WL-1800", "giornata":5, "data":"
 matchs['WL-1800-6'] = {"id":"", "lega":"1WL-1800", "giornata":6, "data":"12/06/2022", "In attesa Kyiv Chess Club" : true};
 matchs['WL-1800-7'] = {"id":"1396583", "lega":"1WL-1800", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-1800-8'] = {"id":"1408669", "lega":"1WL-1800", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
-matchs['WL-1800-9'] = {"id":"", "lega":"1WL-1800", "giornata":9, "data":"11/08/2022", "daCaricare" : true};
+matchs['WL-1800-9'] = {"id":"1416835", "lega":"1WL-1800", "giornata":9, "data":"11/09/2022", "daCaricare" : true};
+
+
 
 // 1WL-1600   
 matchs['WL-1600-1'] = {"id":"0", "lega":"1WL-1600", "giornata":1, "data":"09/01/2022", "daCaricare" : true,
@@ -36,6 +38,7 @@ matchs['WL-1600-9'] = {"id":"0", "lega":"1WL-1600", "giornata":9, "data":"31/07/
 matchs['WL-1600-10'] = {"id":"0", "lega":"1WL-1600", "giornata":10, "data":"31/11/2022", "daCaricare" : true,
 "avversarioName":"InterAjedrez","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1600-11'] = {"id":"1408871", "lega":"1WL-1600", "giornata":11, "data":"14/08/2022", "daCaricare" : true};
+matchs['WL-1600-12'] = {"id":"1416567", "lega":"1WL-1600", "giornata":12, "data":"11/09/2022", "daCaricare" : true};
 
 // 1WL-1400
 matchs['WL-1400-1'] = {"id":"1325061", "lega":"1WL-1400", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
@@ -101,6 +104,7 @@ matchs['WL-OPEN-D5-7'] = {"id":"1412907", "lega":"1WL-OPEN-D5", "giornata":7, "d
 matchs['WL-OPEN-D5-8'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-9'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
 
+
 // TOUR 30
 matchs['WL-TOUR-1'] = {"id":"1365995", "lega":"1WL-TOUR", "giornata":1, "data":"17/04/2022", "daCaricare" : true};
 matchs['WL-TOUR-2'] = {"id":"1376697", "lega":"1WL-TOUR", "giornata":2, "data":"15/05/2022", "daCaricare" : true};
@@ -132,9 +136,16 @@ matchs['WL-U15-9'] = {"id":"", "lega":"1WL-U15", "giornata":9, "data":"05/03/202
 //Swiss4All 
 matchs['1WL-Swiss4All-1'] = {"id":"1383459", "lega":"1WL-Swiss4All", "giornata":1, "data":"05/06/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-2'] = {"id":"1394595", "lega":"1WL-Swiss4All", "giornata":2, "data":"18/06/2022", "daCaricare" : true};
-matchs['1WLSwiss4All-3'] = {"id":"1406947", "lega":"1WL-Swiss4All", "giornata":3, "data":"07/08/2022", "daCaricare" : true};
+matchs['1WL_Swiss4All-3'] = {"id":"1406947", "lega":"1WL-Swiss4All", "giornata":3, "data":"07/08/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-4'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-5'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/128/2022", "daCaricare" : true};
+
+// 960 Classic - Open A
+matchs['1WL-960Classic-1'] = {"id":"1418131", "lega":"1WL-960Classic", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
+matchs['1WL-960Classic-2'] = {"id":"", "lega":"1WL-960Classic", "giornata":2, "data":"02/10/2022", "daCaricare" : true};
+matchs['1WL-960Classic-3'] = {"id":"", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
+matchs['1WL-960Classic-4'] = {"id":"", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
+matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
 
