@@ -82,4 +82,8 @@ matchs['AMICI-7'] = {"id":"1390281", "lega":"AMICI", "giornata":1, "data":"26/06
 matchs['AMICI-8'] = {"id":"1405849", "lega":"AMICI", "giornata":1, "data":"06/08/2022", "daCaricare" : true};
 matchs['AMICI-9'] = {"id":"1404741", "lega":"AMICI", "giornata":1, "data":"31/07/2022", "daCaricare" : true}   //OPEN D5 - Vinta forfait perchè non si è presentata la squadra 1
 matchs['AMICI-10'] = {"id":"1418243", "lega":"AMICI", "giornata":1, "data":"20/09/2022", "daCaricare" : true};
+matchs['AMICI-11'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+matchs['AMICI-12'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+matchs['AMICI-13'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
+
 

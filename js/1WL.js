@@ -89,7 +89,7 @@ matchs['WL-OPEN-A-4'] = {"id":"1380807", "lega":"1WL-OPEN-A", "giornata":3, "dat
 matchs['WL-OPEN-A-5'] = {"id":"1392083", "lega":"1WL-OPEN-A", "giornata":5, "data":"26/06/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-6'] = {"id":"1403955", "lega":"1WL-OPEN-A", "giornata":6, "data":"31/07/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-7'] = {"id":"1412843", "lega":"1WL-OPEN-A", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
-matchs['WL-OPEN-A-8'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
+matchs['WL-OPEN-A-8'] = {"id":"1420669", "lega":"1WL-OPEN-A", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-9'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
 
 // OPEN-D5
@@ -126,7 +126,7 @@ matchs['WL-CUP-1700-1-3'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":3
 "avversarioName":"I like beer and Chess", "nameUrl" : "","risultato":"Persa forfait", "risultatoStyle" :"color:red", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-U15-2'] = {"id":"1405955", "lega":"1WL-U15", "giornata":2, "data":"07/08/2022", "daCaricare" : true};
 matchs['WL-U15-3'] = {"id":"1414167", "lega":"1WL-U15", "giornata":3, "data":"04/09/2022", "daCaricare" : true};
-matchs['WL-U15-4'] = {"id":"", "lega":"1WL-U15", "giornata":4, "data":"02/10/2022", "daCaricare" : true};
+matchs['WL-U15-4'] = {"id":"1421659", "lega":"1WL-U15", "giornata":4, "data":"02/10/2022", "daCaricare" : true};
 matchs['WL-U15-5'] = {"id":"", "lega":"1WL-U15", "giornata":5, "data":"06/11/2022", "daCaricare" : true};
 matchs['WL-U15-6'] = {"id":"", "lega":"1WL-U15", "giornata":6, "data":"04/12/2022", "daCaricare" : true};
 matchs['WL-U15-7'] = {"id":"", "lega":"1WL-U15", "giornata":7, "data":"01/01/2023", "daCaricare" : true};
@@ -144,7 +144,7 @@ matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "dat
 
 // 960 Classic - Open A
 matchs['1WL-960Classic-1'] = {"id":"1418131", "lega":"1WL-960Classic", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
-matchs['1WL-960Classic-2'] = {"id":"", "lega":"1WL-960Classic", "giornata":2, "data":"02/10/2022", "daCaricare" : true};
+matchs['1WL-960Classic-2'] = {"id":"1421649", "lega":"1WL-960Classic", "giornata":2, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-3'] = {"id":"", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-4'] = {"id":"", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
