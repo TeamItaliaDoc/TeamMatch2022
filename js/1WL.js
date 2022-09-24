@@ -39,6 +39,7 @@ matchs['WL-1600-10'] = {"id":"0", "lega":"1WL-1600", "giornata":10, "data":"31/1
 "avversarioName":"InterAjedrez","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1600-11'] = {"id":"1408871", "lega":"1WL-1600", "giornata":11, "data":"14/08/2022", "daCaricare" : true};
 matchs['WL-1600-12'] = {"id":"1416567", "lega":"1WL-1600", "giornata":12, "data":"11/09/2022", "daCaricare" : true};
+matchs['WL-1600-13'] = {"id":"1423711", "lega":"1WL-1600", "giornata":13, "data":"09/10/2022", "daCaricare" : true};
 
 // 1WL-1400
 matchs['WL-1400-1'] = {"id":"1325061", "lega":"1WL-1400", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
@@ -65,9 +66,9 @@ matchs['WL-1200-7'] = {"id":"1387171", "lega":"1WL-1200", "giornata":7, "data":"
 matchs['WL-1200-8'] = {"id":"1396783", "lega":"1WL-1200", "giornata":8, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-1200-9'] = {"id":"0", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true,
 "avversarioName":"Team United Kingdom.", "nameUrl" : "team-united-kingdom-1","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
-matchs['WL-1200-10'] = {"id":"0", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true,
+matchs['WL-1200-10'] = {"id":"0", "lega":"1WL-1200", "giornata":10, "data":"11/08/2022", "daCaricare" : true,
 "avversarioName":"Team Ukraine","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};     
-matchs['WL-1200-11'] = {"id":"1416275", "lega":"1WL-1200", "giornata":9, "data":"11/09/2022", "daCaricare" : true};
+matchs['WL-1200-11'] = {"id":"1416275", "lega":"1WL-1200", "giornata":11, "data":"11/09/2022", "daCaricare" : true};
 
 // 1WL-960   
 matchs['WL-960-1'] = {"id":"1320839", "lega":"1WL-960", "giornata":1, "data":"02/01/2022", "daCaricare" : true};
@@ -120,6 +121,7 @@ matchs['WL-CUP-1700-1-1'] = {"id":"0", "lega":"1WL-CUP-1700", "giornata":1, "dat
 "avversarioName":"Greek Arena-Τουρνουά Ελλάδος", "nameUrl" : "greek-arena-tournoua-ellados","risultato":"Non disputata", "risultatoStyle" :"color:black;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-CUP-1700-1-2'] = {"id":"1342643", "lega":"1WL-CUP-1700", "giornata":2, "data":"20/02/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-3'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":3, "data":"20/03/2022", "daCaricare" : true};
+matchs['WL-CUP-1700-1-4'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":4, "data":"06/10/2022", "daCaricare" : true};
 
 // U1500 Tournement
  matchs['WL-U15-1'] = {"id":"0", "lega":"1WL-U15", "giornata":1, "data":"03/07/2022", "daCaricare" : true,   //persa forfait 
@@ -138,7 +140,7 @@ matchs['1WL-Swiss4All-1'] = {"id":"1383459", "lega":"1WL-Swiss4All", "giornata":
 matchs['1WL-Swiss4All-2'] = {"id":"1394595", "lega":"1WL-Swiss4All", "giornata":2, "data":"18/06/2022", "daCaricare" : true};
 matchs['1WL_Swiss4All-3'] = {"id":"1406947", "lega":"1WL-Swiss4All", "giornata":3, "data":"07/08/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-4'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-5'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-5'] = {"id":"1422013", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/128/2022", "daCaricare" : true};
 
