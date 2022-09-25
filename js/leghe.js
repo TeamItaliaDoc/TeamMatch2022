@@ -1,4 +1,3 @@
-
 //CCT - League   s2
 matchs['CCT-1'] = {"id":"1327809", "lega":"CCT", "giornata":1, "data":"19/01/2022", "daCaricare" : true};
 matchs['CCT-2'] = {"id":"1342145", "lega":"CCT", "giornata":2, "data":"19/02/2022", "daCaricare" : true};
@@ -85,5 +84,3 @@ matchs['AMICI-10'] = {"id":"1418243", "lega":"AMICI", "giornata":1, "data":"20/0
 matchs['AMICI-11'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-12'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
 matchs['AMICI-13'] = {"id":"", "lega":"AMICI", "giornata":1, "data":"//2022", "daCaricare" : true};
-
-

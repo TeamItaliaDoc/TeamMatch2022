@@ -139,7 +139,8 @@ matchs['WL-U15-9'] = {"id":"", "lega":"1WL-U15", "giornata":9, "data":"05/03/202
 matchs['1WL-Swiss4All-1'] = {"id":"1383459", "lega":"1WL-Swiss4All", "giornata":1, "data":"05/06/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-2'] = {"id":"1394595", "lega":"1WL-Swiss4All", "giornata":2, "data":"18/06/2022", "daCaricare" : true};
 matchs['1WL_Swiss4All-3'] = {"id":"1406947", "lega":"1WL-Swiss4All", "giornata":3, "data":"07/08/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-4'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-4'] = {"id":"0", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true,
+"avversarioName":"EGYPT CHESS CLUB", "nameUrl" : "egypt-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 matchs['1WL-Swiss4All-5'] = {"id":"1422013", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/128/2022", "daCaricare" : true};
