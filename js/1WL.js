@@ -1,3 +1,6 @@
+//1416275 vinta forfait -  ESPAÑA 1500 CLUB round 11 -  
+//1WL 2022 U12-10+ R11
+
 // 1WL-OPEN
 matchs['WL-OPEN-1'] = {"id":"1327015", "lega":"1WL-OPEN", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
 matchs['WL-OPEN-2'] = {"id":"1339647", "lega":"1WL-OPEN", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
@@ -68,7 +71,7 @@ matchs['WL-1200-9'] = {"id":"0", "lega":"1WL-1200", "giornata":9, "data":"11/08/
 "avversarioName":"Team United Kingdom.", "nameUrl" : "team-united-kingdom-1","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1200-10'] = {"id":"0", "lega":"1WL-1200", "giornata":10, "data":"11/08/2022", "daCaricare" : true,
 "avversarioName":"Team Ukraine","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};     
-matchs['WL-1200-11'] = {"id":"1416275", "lega":"1WL-1200", "giornata":11, "data":"11/09/2022", "daCaricare" : true};
+//Vinta forfai  ??????? matchs['WL-1200-11'] = {"id":"1416275", "lega":"1WL-1200", "giornata":11, "data":"11/09/2022", "daCaricare" : true};
 
 // 1WL-960   
 matchs['WL-960-1'] = {"id":"1320839", "lega":"1WL-960", "giornata":1, "data":"02/01/2022", "daCaricare" : true};
