@@ -1,6 +1,10 @@
 //1416275 vinta forfait -  ESPAÑA 1500 CLUB round 11 -  
 //1WL 2022 U12-10+ R11
 
+//1WL 2022 30+TOUR R7
+//Team Italia DOC bye
+
+
 // 1WL-OPEN
 matchs['WL-OPEN-1'] = {"id":"1327015", "lega":"1WL-OPEN", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
 matchs['WL-OPEN-2'] = {"id":"1339647", "lega":"1WL-OPEN", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
@@ -124,7 +128,9 @@ matchs['WL-CUP-1700-1-1'] = {"id":"0", "lega":"1WL-CUP-1700", "giornata":1, "dat
 "avversarioName":"Greek Arena-Τουρνουά Ελλάδος", "nameUrl" : "greek-arena-tournoua-ellados","risultato":"Non disputata", "risultatoStyle" :"color:black;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-CUP-1700-1-2'] = {"id":"1342643", "lega":"1WL-CUP-1700", "giornata":2, "data":"20/02/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-3'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":3, "data":"20/03/2022", "daCaricare" : true};
-matchs['WL-CUP-1700-1-4'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":4, "data":"06/10/2022", "daCaricare" : true};
+matchs['WL-CUP-1700-1-4'] = {"id":"1423027", "lega":"1WL-CUP-1700", "giornata":"Quarti", "data":"06/10/2022", "daCaricare" : true};
+matchs['WL-CUP-1700-1-5'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":5, "data":"//2022", "daCaricare" : true};
+
 
 // U1500 Tournement
  matchs['WL-U15-1'] = {"id":"0", "lega":"1WL-U15", "giornata":1, "data":"03/07/2022", "daCaricare" : true,   //persa forfait 
@@ -151,7 +157,7 @@ matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "dat
 // 960 Classic - Open A
 matchs['1WL-960Classic-1'] = {"id":"1418131", "lega":"1WL-960Classic", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
 matchs['1WL-960Classic-2'] = {"id":"1421649", "lega":"1WL-960Classic", "giornata":2, "data":"02/10/2022", "daCaricare" : true};
-matchs['1WL-960Classic-3'] = {"id":"", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
+matchs['1WL-960Classic-3'] = {"id":"1425392", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-4'] = {"id":"", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
 
