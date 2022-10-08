@@ -1,9 +1,6 @@
 //1416275 vinta forfait -  ESPAÑA 1500 CLUB round 11 -  
 //1WL 2022 U12-10+ R11
 
-//1WL 2022 30+TOUR R7
-//Team Italia DOC bye
-
 
 // 1WL-OPEN
 matchs['WL-OPEN-1'] = {"id":"1327015", "lega":"1WL-OPEN", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
@@ -54,7 +51,7 @@ matchs['WL-1400-2'] = {"id":"1339613", "lega":"1WL-1400", "giornata":2, "data":"
 matchs['WL-1400-3'] = {"id":"1351805", "lega":"1WL-1400", "giornata":3, "data":"13/03/2022", "daCaricare" : true};
 matchs['WL-1400-4'] = {"id":"1363385", "lega":"1WL-1400", "giornata":4, "data":"10/04/2022", "daCaricare" : true};
 matchs['WL-1400-5'] = {"id":"0", "lega":"1WL-1400", "giornata":5, "data":"08/05/2022", "daCaricare" : true,
-"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1400-6'] = {"id":"1386429", "lega":"1WL-1400", "giornata":6, "data":"12/06/2022", "daCaricare" : true};
 matchs['WL-1400-7'] = {"id":"1397215", "lega":"1WL-1400", "giornata":7, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-1400-8'] = {"id":"", "lega":"1WL-1400", "giornata":8, "data":"14/08/2022", "daCaricare" : true};
@@ -66,16 +63,16 @@ matchs['WL-1200-2'] = {"id":"1339615", "lega":"1WL-1200", "giornata":2, "data":"
 matchs['WL-1200-3'] = {"id":"1351363", "lega":"1WL-1200", "giornata":3, "data":"13/03/2022", "daCaricare" : true};
 matchs['WL-1200-4'] = {"id":"1362391", "lega":"1WL-1200", "giornata":4, "data":"10/04/2022", "daCaricare" : true};
 matchs['WL-1200-5'] = {"id":"0", "lega":"1WL-1200", "giornata":5, "data":"08/05/2022", "daCaricare" : true,
-"avversarioName":"Earthlings United","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+"avversarioName":"Earthlings United","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-1200-6'] = {"id":"1381251", "lega":"1WL-1200", "giornata":6, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-1200-7'] = {"id":"1387171", "lega":"1WL-1200", "giornata":7, "data":"12/06/2022", "daCaricare" : true};
-
 matchs['WL-1200-8'] = {"id":"1396783", "lega":"1WL-1200", "giornata":8, "data":"10/07/2022", "daCaricare" : true};
 matchs['WL-1200-9'] = {"id":"0", "lega":"1WL-1200", "giornata":9, "data":"11/08/2022", "daCaricare" : true,
-"avversarioName":"Team United Kingdom.", "nameUrl" : "team-united-kingdom-1","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
-matchs['WL-1200-10'] = {"id":"0", "lega":"1WL-1200", "giornata":10, "data":"11/08/2022", "daCaricare" : true,
+"avversarioName":"Team United Kingdom.", "nameUrl" : "team-united-kingdom-1","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-1200-10'] = {"id":"0", "lega":"1WL-1200", "giornata":10, "data":"14/08/2022", "daCaricare" : true,
 "avversarioName":"Team Ukraine","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};     
-//Vinta forfai  ??????? matchs['WL-1200-11'] = {"id":"1416275", "lega":"1WL-1200", "giornata":11, "data":"11/09/2022", "daCaricare" : true};
+matchs['WL-1200-11'] = {"id":"0", "lega":"1WL-1200", "giornata":11, "data":"11/09/2022", "daCaricare" : true,
+"avversarioName":"ESPAÑA 1500 CLUB", "nameUrl" : "espana-1500-club","risultato":"Vinto forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 
 // 1WL-960   
 matchs['WL-960-1'] = {"id":"1320839", "lega":"1WL-960", "giornata":1, "data":"02/01/2022", "daCaricare" : true};
@@ -84,8 +81,9 @@ matchs['WL-960-3'] = {"id":"1348719", "lega":"1WL-960", "giornata":3, "data":"06
 matchs['WL-960-4'] = {"id":"1359679", "lega":"1WL-960", "giornata":4, "data":"03/04/2022", "daCaricare" : true};
 matchs['WL-960-5'] = {"id":"1371387", "lega":"1WL-960", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
 matchs['WL-960-6'] = {"id":"0", "lega":"1WL-960", "giornata":6, "data":"01/06/2022", "daCaricare" : true,
-"avversarioName":"Team Philippines United", "nameUrl" : "team-philippines-united","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
-//matchs['WL-960-7'] = {"id":"1396431", "lega":"1WL-960", "giornata":7, "data":"03/07/2022", "daCaricare" : true};   //https://www.chess.com/clubs/forum/view/960-league-2022?page=38 si è giocato ?? 
+"avversarioName":"Team Philippines United", "nameUrl" : "team-philippines-united","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-960-7'] = {"id":"0", "lega":"1WL-960", "giornata":7, "data":"03/07/2022", "daCaricare" : true, //   //https://www.chess.com/clubs/forum/view/960-league-2022?page=38 si è giocato ?? 
+"avversarioName":"AFC Bournemouth", "nameUrl" : "afc-bournemouth","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-960-8'] = {"id":"1406011", "lega":"1WL-960", "giornata":8, "data":"07/08/2022", "daCaricare" : true};
 matchs['WL-960-9'] = {"id":"1414171", "lega":"1WL-960", "giornata":9, "data":"4/09/2022", "daCaricare" : true};
 
@@ -98,7 +96,7 @@ matchs['WL-OPEN-A-5'] = {"id":"1392083", "lega":"1WL-OPEN-A", "giornata":5, "dat
 matchs['WL-OPEN-A-6'] = {"id":"1403955", "lega":"1WL-OPEN-A", "giornata":6, "data":"31/07/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-7'] = {"id":"1412843", "lega":"1WL-OPEN-A", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-8'] = {"id":"1420669", "lega":"1WL-OPEN-A", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
-matchs['WL-OPEN-A-9'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
+matchs['WL-OPEN-A-9'] = {"id":"1427349", "lega":"1WL-OPEN-A", "giornata":9, "data":"23/10/2022", "daCaricare" : true};
 
 // OPEN-D5
 matchs['WL-OPEN-D5-1'] = {"id":"1346249", "lega":"1WL-OPEN-D5", "giornata":1, "data":"27/02/2022", "daCaricare" : true};
@@ -107,7 +105,7 @@ matchs['WL-OPEN-D5-3'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":3, "data":"2
 matchs['WL-OPEN-D5-4'] = {"id":"1380837", "lega":"1WL-OPEN-D5", "giornata":4, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-5'] = {"id":"1392831", "lega":"1WL-OPEN-D5", "giornata":5, "data":"26/06/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-6'] = {"id":"0", "lega":"1WL-OPEN-D5", "giornata":6, "data":"31/07/2022", "daCaricare" : true,   //Vinta forfait perchè non si è presentata la squadra 1
-"avversarioName":"Клуб имени Михаила Чигорина. Club names Mikhail Chigorin", "nameUrl" : "klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+"avversarioName":"Клуб имени Михаила Чигорина. Club names Mikhail Chigorin", "nameUrl" : "klub-imeni-mikhaila-chigorina-club-names-mikhail-chigorin","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['WL-OPEN-D5-7'] = {"id":"1412907", "lega":"1WL-OPEN-D5", "giornata":7, "data":"28/08/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-8'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":8, "data":"25/09/2022", "daCaricare" : true};
 matchs['WL-OPEN-D5-9'] = {"id":"", "lega":"1WL-OPEN-D5", "giornata":9, "data":"30/10/2022", "daCaricare" : true};
@@ -120,8 +118,10 @@ matchs['WL-TOUR-3'] = {"id":"1389313", "lega":"1WL-TOUR", "giornata":3, "data":"
 matchs['WL-TOUR-4'] = {"id":"0", "lega":"1WL-TOUR", "giornata":4, "data":"17/07/2022", "daCaricare" : true,
 "avversarioName":"Crimea team","risultato":"In attesa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};
 matchs['WL-TOUR-5'] = {"id":"1411015", "lega":"1WL-TOUR", "giornata":5, "data":"21/08/2022", "daCaricare" : true};
-matchs['WL-TOUR-6'] = {"id":"", "lega":"1WL-TOUR", "giornata":6, "data":"18/09/2022", "daCaricare" : true};
-matchs['WL-TOUR-7'] = {"id":"", "lega":"1WL-TOUR", "giornata":7, "data":"16/10/2022", "daCaricare" : true};
+matchs['WL-TOUR-6'] = {"id":"", "lega":"1WL-TOUR", "giornata":6, "data":"18/09/2022", "daCaricare" : true,
+"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
+matchs['WL-TOUR-7'] = {"id":"0", "lega":"1WL-TOUR", "giornata":7, "data":"16/10/2022", "daCaricare" : true,
+"avversarioName":"","risultato":"Bye", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
 
 // Classi CUP 1700
 matchs['WL-CUP-1700-1-1'] = {"id":"0", "lega":"1WL-CUP-1700", "giornata":1, "data":"", "daCaricare" : true,
@@ -149,7 +149,7 @@ matchs['1WL-Swiss4All-1'] = {"id":"1383459", "lega":"1WL-Swiss4All", "giornata":
 matchs['1WL-Swiss4All-2'] = {"id":"1394595", "lega":"1WL-Swiss4All", "giornata":2, "data":"18/06/2022", "daCaricare" : true};
 matchs['1WL_Swiss4All-3'] = {"id":"1406947", "lega":"1WL-Swiss4All", "giornata":3, "data":"07/08/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-4'] = {"id":"0", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true,
-"avversarioName":"EGYPT CHESS CLUB", "nameUrl" : "egypt-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
+"avversarioName":"EGYPT CHESS CLUB", "nameUrl" : "egypt-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['1WL-Swiss4All-5'] = {"id":"1422013", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/128/2022", "daCaricare" : true};
