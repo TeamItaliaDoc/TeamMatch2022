@@ -138,7 +138,7 @@ matchs['WL-CUP-1700-1-5'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":5, "data
 matchs['WL-U15-2'] = {"id":"1405955", "lega":"1WL-U15", "giornata":2, "data":"07/08/2022", "daCaricare" : true};
 matchs['WL-U15-3'] = {"id":"1414167", "lega":"1WL-U15", "giornata":3, "data":"04/09/2022", "daCaricare" : true};
 matchs['WL-U15-4'] = {"id":"1421659", "lega":"1WL-U15", "giornata":4, "data":"02/10/2022", "daCaricare" : true};
-matchs['WL-U15-5'] = {"id":"", "lega":"1WL-U15", "giornata":5, "data":"06/11/2022", "daCaricare" : true};
+matchs['WL-U15-5'] = {"id":"1431495", "lega":"1WL-U15", "giornata":5, "data":"06/11/2022", "daCaricare" : true};
 matchs['WL-U15-6'] = {"id":"", "lega":"1WL-U15", "giornata":6, "data":"04/12/2022", "daCaricare" : true};
 matchs['WL-U15-7'] = {"id":"", "lega":"1WL-U15", "giornata":7, "data":"01/01/2023", "daCaricare" : true};
 matchs['WL-U15-8'] = {"id":"", "lega":"1WL-U15", "giornata":8, "data":"05/02/2023", "daCaricare" : true};
@@ -151,13 +151,13 @@ matchs['1WL_Swiss4All-3'] = {"id":"1406947", "lega":"1WL-Swiss4All", "giornata":
 matchs['1WL-Swiss4All-4'] = {"id":"0", "lega":"1WL-Swiss4All", "giornata":4, "data":"04/09/2022", "daCaricare" : true,
 "avversarioName":"EGYPT CHESS CLUB", "nameUrl" : "egypt-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['1WL-Swiss4All-5'] = {"id":"1422013", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-6'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-6'] = {"id":"1431217", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/128/2022", "daCaricare" : true};
 
 // 960 Classic - Open A
 matchs['1WL-960Classic-1'] = {"id":"1418131", "lega":"1WL-960Classic", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
 matchs['1WL-960Classic-2'] = {"id":"1421649", "lega":"1WL-960Classic", "giornata":2, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-3'] = {"id":"1425392", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
-matchs['1WL-960Classic-4'] = {"id":"", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
+matchs['1WL-960Classic-4'] = {"id":"1431215", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
 matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
 
