@@ -43,10 +43,9 @@ matchs['KTML-32-4'] = {"id":"", "lega":"KTML-32", "giornata":5, "data":"01/05/20
 //KTML 33
 matchs['KTML-33-1'] = {"id":"0", "lega":"KTML-33", "giornata":1, "data":"01/05/2022", "daCaricare" : true,
 "avversarioName":"hampovsky-chess-club", "nameUrl" : "hampovsky-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green", "giocatori":"", "score":"", "url" : ""};  
-matchs['KTML-33-2'] = {"id":"", "lega":"KTML-33", "giornata":2, "data":"01/02/2022", "daCaricare" : true};
+matchs['KTML-33-2'] = {"id":"1432603", "lega":"KTML-33", "giornata":2, "data":"03/11/2022", "daCaricare" : true};
 matchs['KTML-33-3'] = {"id":"", "lega":"KTML-33", "giornata":3, "data":"01/03/2022", "daCaricare" : true};  
 matchs['KTML-33-4'] = {"id":"", "lega":"KTML-33", "giornata":5, "data":"01/05/2022", "daCaricare" : true};
-
 //ULF
 matchs['ULF-1'] = {"id":"1333413", "lega":"ULF", "giornata":1, "data":"07/02/2022", "daCaricare" : true};
 matchs['ULF-2'] = {"id":"", "lega":"ULF", "giornata":2, "data":"//2022", "daCaricare" : true};
@@ -73,7 +72,7 @@ matchs['NWL-9'] = {"id":"", "lega":"NWL", "giornata":9, "data":"//2022", "daCari
 //Amichevoli 
 matchs['AMICI-1'] = {"id":"1333083", "lega":"AMICI", "giornata":1, "data":"25/01/2022", "daCaricare" : true};
 matchs['AMICI-2'] = {"id":"1369157", "lega":"AMICI", "giornata":1, "data":"13/04/2022", "daCaricare" : true};
-matchs['AMICI-3'] = {"id":"1371851", "lega":"AMICI", "giornata":1, "data":"25/04/2022", "daCaricare" : true};
+//?????????????? matchs['AMICI-3'] = {"id":"1371851", "lega":"AMICI", "giornata":1, "data":"25/04/2022", "daCaricare" : true};
 matchs['AMICI-4'] = {"id":"1376367", "lega":"AMICI", "giornata":1, "data":"03/05/2022", "daCaricare" : true};
 matchs['AMICI-5'] = {"id":"1381501", "lega":"AMICI", "giornata":1, "data":"22/05/2022", "daCaricare" : true};
 matchs['AMICI-6'] = {"id":"1390713", "lega":"AMICI", "giornata":1, "data":"", "daCaricare" : true};    //??? 
