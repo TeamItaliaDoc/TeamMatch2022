@@ -159,5 +159,5 @@ matchs['1WL-960Classic-1'] = {"id":"1418131", "lega":"1WL-960Classic", "giornata
 matchs['1WL-960Classic-2'] = {"id":"1421649", "lega":"1WL-960Classic", "giornata":2, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-3'] = {"id":"1425392", "lega":"1WL-960Classic", "giornata":3, "data":"16/10/2022", "daCaricare" : true};
 matchs['1WL-960Classic-4'] = {"id":"1431215", "lega":"1WL-960Classic", "giornata":4, "data":"06/11/2022", "daCaricare" : true};
-matchs['1WL-960Classic-5'] = {"id":"", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
+matchs['1WL-960Classic-5'] = {"id":"1435229", "lega":"1WL-960Classic", "giornata":5, "data":"20/11/2022", "daCaricare" : true};
 
