@@ -1,5 +1,4 @@
-//1416275 vinta forfait -  ESPAÑA 1500 CLUB round 11 -  
-//1WL 2022 U12-10+ R11
+//1437425 - https://www.chess.com/clubs/forum/view/u1700-cup-2023-24
 
 
 // 1WL-OPEN
@@ -139,7 +138,7 @@ matchs['WL-U15-2'] = {"id":"1405955", "lega":"1WL-U15", "giornata":2, "data":"07
 matchs['WL-U15-3'] = {"id":"1414167", "lega":"1WL-U15", "giornata":3, "data":"04/09/2022", "daCaricare" : true};
 matchs['WL-U15-4'] = {"id":"1421659", "lega":"1WL-U15", "giornata":4, "data":"02/10/2022", "daCaricare" : true};
 matchs['WL-U15-5'] = {"id":"1431495", "lega":"1WL-U15", "giornata":5, "data":"06/11/2022", "daCaricare" : true};
-matchs['WL-U15-6'] = {"id":"", "lega":"1WL-U15", "giornata":6, "data":"04/12/2022", "daCaricare" : true};
+matchs['WL-U15-6'] = {"id":"1439449", "lega":"1WL-U15", "giornata":6, "data":"04/12/2022", "daCaricare" : true};
 matchs['WL-U15-7'] = {"id":"", "lega":"1WL-U15", "giornata":7, "data":"01/01/2023", "daCaricare" : true};
 matchs['WL-U15-8'] = {"id":"", "lega":"1WL-U15", "giornata":8, "data":"05/02/2023", "daCaricare" : true};
 matchs['WL-U15-9'] = {"id":"", "lega":"1WL-U15", "giornata":9, "data":"05/03/2023", "daCaricare" : true};
@@ -152,7 +151,7 @@ matchs['1WL-Swiss4All-4'] = {"id":"0", "lega":"1WL-Swiss4All", "giornata":4, "da
 "avversarioName":"EGYPT CHESS CLUB", "nameUrl" : "egypt-chess-club","risultato":"Vinta forfait", "risultatoStyle" :"color:green;font-weight:bold", "giocatori":"", "score":"", "url" : ""};  
 matchs['1WL-Swiss4All-5'] = {"id":"1422013", "lega":"1WL-Swiss4All", "giornata":5, "data":"02/10/2022", "daCaricare" : true};
 matchs['1WL-Swiss4All-6'] = {"id":"1431217", "lega":"1WL-Swiss4All", "giornata":6, "data":"06/11/2022", "daCaricare" : true};
-matchs['1WL-Swiss4All-7'] = {"id":"", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/128/2022", "daCaricare" : true};
+matchs['1WL-Swiss4All-7'] = {"id":"1439249", "lega":"1WL-Swiss4All", "giornata":7, "data":"04/12/2022", "daCaricare" : true};
 
 // 960 Classic - Open A
 matchs['1WL-960Classic-1'] = {"id":"1418131", "lega":"1WL-960Classic", "giornata":1, "data":"18/09/2022", "daCaricare" : true};
