@@ -1,6 +1,3 @@
-//1437425 - https://www.chess.com/clubs/forum/view/u1700-cup-2023-24
-
-
 // 1WL-OPEN
 matchs['WL-OPEN-1'] = {"id":"1327015", "lega":"1WL-OPEN", "giornata":1, "data":"09/01/2022", "daCaricare" : true};
 matchs['WL-OPEN-2'] = {"id":"1339647", "lega":"1WL-OPEN", "giornata":2, "data":"13/02/2022", "daCaricare" : true};
