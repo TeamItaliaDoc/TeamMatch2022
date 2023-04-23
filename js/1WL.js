@@ -138,7 +138,7 @@ matchs['WL-U15-5'] = {"id":"1431495", "lega":"1WL-U15", "giornata":5, "data":"06
 matchs['WL-U15-6'] = {"id":"1439449", "lega":"1WL-U15", "giornata":6, "data":"04/12/2022", "daCaricare" : true};
 matchs['WL-U15-7'] = {"id":"1447697", "lega":"1WL-U15", "giornata":7, "data":"01/01/2023", "daCaricare" : true};
 matchs['WL-U15-8'] = {"id":"1458197", "lega":"1WL-U15", "giornata":8, "data":"05/02/2023", "daCaricare" : true};
-matchs['WL-U15-9'] = {"id":"", "lega":"1WL-U15", "giornata":9, "data":"05/03/2023", "daCaricare" : true};
+matchs['WL-U15-9'] = {"id":"1487517", "lega":"1WL-U15", "giornata":9, "data":"05/03/2023", "daCaricare" : true};
 
 //Swiss4All 
 matchs['1WL-Swiss4All-1'] = {"id":"1383459", "lega":"1WL-Swiss4All", "giornata":1, "data":"05/06/2022", "daCaricare" : true};
