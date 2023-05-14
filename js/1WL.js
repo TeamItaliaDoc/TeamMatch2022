@@ -86,7 +86,7 @@ matchs['WL-960-9'] = {"id":"1414171", "lega":"1WL-960", "giornata":9, "data":"4/
 // OPEN-A
 matchs['WL-OPEN-A-1'] = {"id":"1346245", "lega":"1WL-OPEN-A", "giornata":1, "data":"27/02/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-2'] = {"id":"1357339", "lega":"1WL-OPEN-A", "giornata":2, "data":"27/03/2022", "daCaricare" : true};
-matchs['WL-OPEN-A-2'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":4, "data":"29/05/2022", "daCaricare" : true};
+matchs['WL-OPEN-A-3'] = {"id":"", "lega":"1WL-OPEN-A", "giornata":4, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-4'] = {"id":"1380807", "lega":"1WL-OPEN-A", "giornata":3, "data":"29/05/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-5'] = {"id":"1392083", "lega":"1WL-OPEN-A", "giornata":5, "data":"26/06/2022", "daCaricare" : true};
 matchs['WL-OPEN-A-6'] = {"id":"1403955", "lega":"1WL-OPEN-A", "giornata":6, "data":"31/07/2022", "daCaricare" : true};
@@ -125,7 +125,7 @@ matchs['WL-CUP-1700-1-1'] = {"id":"0", "lega":"1WL-CUP-1700", "giornata":1, "dat
 matchs['WL-CUP-1700-1-2'] = {"id":"1342643", "lega":"1WL-CUP-1700", "giornata":2, "data":"20/02/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-3'] = {"id":"1354367", "lega":"1WL-CUP-1700", "giornata":3, "data":"20/03/2022", "daCaricare" : true};
 matchs['WL-CUP-1700-1-4'] = {"id":"1423027", "lega":"1WL-CUP-1700", "giornata":"Quarti", "data":"06/10/2022", "daCaricare" : true};
-matchs['WL-CUP-1700-1-5'] = {"id":"", "lega":"1WL-CUP-1700", "giornata":5, "data":"//2022", "daCaricare" : true};
+matchs['WL-CUP-1700-1-5'] = {"id":"1494091", "lega":"1WL-CUP-1700", "giornata":"Semifinale", "data":"28/05/2022", "daCaricare" : true};
 
 
 // U1500 Tournement
