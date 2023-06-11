@@ -14,8 +14,8 @@ matchs['CCT-9'] = {"id":"", "lega":"CCT", "giornata":9, "data":"19/09/2022", "da
 //CCT - Center Files
 matchs['CCT-CEN-1'] = {"id":"1358685", "lega":"CCT-CEN", "giornata":1, "data":"31/03/2022", "daCaricare" : true};
 matchs['CCT-CEN-2'] = {"id":"1370107", "lega":"CCT-CEN", "giornata":2, "data":"01/05/2022", "daCaricare" : true};
-matchs['CCT-CEN-3'] = {"id":"1381203", "lega":"CCT-CEN", "giornata":3, "data":"31/05/2022", "daCaricare" : true};
-matchs['CCT-CEN-4'] = {"id":"", "lega":"CCT-CEN", "giornata":4, "data":"//2022", "daCaricare" : true};
+matchs['CCT-CEN-3'] = {"id":"1381203", "lega":"CCT-CEN", "giornata":3, "data":"26/12/2022", "daCaricare" : true};
+matchs['CCT-CEN-4'] = {"id":"1502943", "lega":"CCT-CEN", "giornata":4, "data":"26/06/2022", "daCaricare" : true};
 matchs['CCT-CEN-5'] = {"id":"", "lega":"CCT-CEN", "giornata":5, "data":"//2022", "daCaricare" : true};
 matchs['CCT-CEN-6'] = {"id":"", "lega":"CCT-CEN", "giornata":6, "data":"//2022", "daCaricare" : true};
 matchs['CCT-CEN-7'] = {"id":"", "lega":"CCT-CEN", "giornata":7, "data":"//2022", "daCaricare" : true};
