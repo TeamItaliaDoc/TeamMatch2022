@@ -5,10 +5,10 @@ matchs['CCT-3'] = {"id":"0", "lega":"CCT", "giornata":3, "data":"19/03/2022", "d
 "avversarioName":"","risultato":"Pausa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
 matchs['CCT-4'] = {"id":"0", "lega":"CCT", "giornata":4, "data":"19/04/2022", "daCaricare" : true,
 "avversarioName":"","risultato":"Pausa", "risultatoStyle" :"color:black", "giocatori":"", "score":"", "url" : ""};  
-matchs['CCT-5'] = {"id":"1377899", "lega":"CCT", "giornata":5, "data":"21/05/2022", "daCaricare" : true};
-matchs['CCT-6'] = {"id":"1389601", "lega":"CCT", "giornata":6, "data":"21/06/2022", "daCaricare" : true};
+matchs['CCT-5'] = {"id":"1377899", "lega":"CCT", "giornata":5, "data":"20/10/2022", "daCaricare" : true};
+matchs['CCT-6'] = {"id":"1389601", "lega":"CCT", "giornata":6, "data":"18/01/2023", "daCaricare" : true};
 matchs['CCT-7'] = {"id":"", "lega":"CCT", "giornata":7, "data":"19/07/2022", "daCaricare" : true};
-matchs['CCT-8'] = {"id":"", "lega":"CCT", "giornata":8, "data":"19/08/2022", "daCaricare" : true};
+matchs['CCT-8'] = {"id":"1508789", "lega":"CCT", "giornata":8, "data":"11/07/2022", "daCaricare" : true};
 matchs['CCT-9'] = {"id":"", "lega":"CCT", "giornata":9, "data":"19/09/2022", "daCaricare" : true};
 
 //CCT - Center Files
