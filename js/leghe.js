@@ -47,6 +47,7 @@ matchs['KTML-33-1'] = {"id":"0", "lega":"KTML-33", "giornata":"Sedicesimi", "dat
 matchs['KTML-33-2'] = {"id":"1432603", "lega":"KTML-33", "giornata":"Ottavi", "data":"03/11/2022", "daCaricare" : true};
 matchs['KTML-33-3'] = {"id":"1463487", "lega":"KTML-33", "giornata":"Quarti", "data":"15/02/2022", "daCaricare" : true};  
 matchs['KTML-33-4'] = {"id":"1496793", "lega":"KTML-33", "giornata":"Semifinale", "data":"30/05/2022", "daCaricare" : true};
+matchs['KTML-33-6'] = {"id":"1534675", "lega":"KTML-33", "giornata":"Finale 3 posto", "data":"03/10/2022", "daCaricare" : true};
 //ULF
 matchs['ULF-1'] = {"id":"1333413", "lega":"ULF", "giornata":1, "data":"07/02/2022", "daCaricare" : true};
 matchs['ULF-2'] = {"id":"", "lega":"ULF", "giornata":2, "data":"//2022", "daCaricare" : true};
